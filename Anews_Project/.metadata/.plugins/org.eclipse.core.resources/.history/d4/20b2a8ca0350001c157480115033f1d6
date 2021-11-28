@@ -1,0 +1,4 @@
+NotEmpty.tinTucError.name = Tên không được để trống
+Size.tinTucError.name = Tên phải từ 5 - 20 ký tự
+NotNull.tinTucError.age = Tuổi không được để trống
+validPicture= Vui lòng chọn hình ảnh

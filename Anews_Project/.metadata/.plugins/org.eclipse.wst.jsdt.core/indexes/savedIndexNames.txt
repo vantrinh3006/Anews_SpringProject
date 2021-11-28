@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\OS\Downloads\Anews_Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3196389509.index
+448222758.index
+2988615527.index
+1613984078.index
+3381743614.index
+1496923539.index
+583601425.index

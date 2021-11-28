@@ -1,0 +1,14 @@
+package spring.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import spring.dao.TinTucDAO;
+
+@Service
+public class TinTucService {
+
+	@Autowired
+	private TinTucDAO tinTucDAO;
+	
+}

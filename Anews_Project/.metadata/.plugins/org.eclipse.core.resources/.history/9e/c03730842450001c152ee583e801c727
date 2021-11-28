@@ -1,0 +1,9 @@
+NotEmpty.tinTucError.tenTinTuc = Tên không được để trống
+NotEmpty.tinTucError.moTa = Tên không được để trống
+NotEmpty.tinTucError.chiTiet = Tên không được để trống
+Size.tinTucError.tenTinTuc = Tên tin tức phải từ 5 - 20 ký tự
+Size.tinTucError.moTa = Mô tả phải từ 5 - 100 ký tự
+Size.tinTucError.chiTiet = Chi tiết phải từ 5 - 500 ký tự
+validPicture= Vui lòng chọn hình ảnh
+
+tinTucError.hinhAnh = chưa chọn ảnh

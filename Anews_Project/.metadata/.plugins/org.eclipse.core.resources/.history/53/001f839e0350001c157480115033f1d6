@@ -1,0 +1,5 @@
+NotEmpty.userError.name = Tên không được để trống
+Size.userError.name = Tên phải từ 5 - 20 ký tự
+NotNull.userError.age = Tuổi không được để trống
+Min.userError.age = Tuổi nhỏ nhất là 18
+validPicture= Vui lòng chọn hình ảnh

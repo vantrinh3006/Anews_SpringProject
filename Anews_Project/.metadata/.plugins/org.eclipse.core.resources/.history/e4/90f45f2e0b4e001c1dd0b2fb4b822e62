@@ -1,0 +1,8 @@
+package spring.dao;
+
+import org.springframework.stereotype.Repository;
+
+@Repository //anotation tương tác database
+public class DanhMucTinDAO {	//class này sẽ biến thành 1 bean trong spring 
+
+}
